@@ -29,7 +29,7 @@ A escolha da ferramenta foi feita porque a I.A utilizada é prática e não teve
 As limitações encontradas foram sobre a parte de customização do aplicativo, e problemas para executar o aplicativo em outras máquinas, porém conseguimos resolver com a ajuda da própria I.A.
 ---
 ## 👥 Colaboração
-Lucas Nunes
-Daniel Almeida Reis
-Felipe	Rodrigues de Sousa
-Mathias Magalhães
+Lucas Nunes;
+Daniel Almeida Reis;
+Felipe	Rodrigues de Sousa;
+Mathias Magalhães;
